@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DahamChoi)](https://github.com/anuraghazra/github-readme-stats)
+게임 클라이언트 개발자 최다함입니다.
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dun04115)](https://solved.ac/dun04115)
